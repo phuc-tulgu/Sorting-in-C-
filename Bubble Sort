@@ -13,3 +13,4 @@ void BubbleSort(int a[], int n){
 		   if(a[j] < a[j-1])
 		       Swap(a[j], a[j-1]);
 }
+a
